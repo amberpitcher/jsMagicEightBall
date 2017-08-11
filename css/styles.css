@@ -1,0 +1,37 @@
+body{
+	background-image: url('../img/bg5.gif');
+	text-align: center;
+	padding: 25px;
+}
+
+h1{
+	font-family: 'Work Sans', sans-serif;
+	color: #fff;
+	font-size: 60px;
+	padding: 0;
+	margin: 0;
+}
+
+h2{
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+	font-size: 30px;
+	padding: 10px;
+	margin: 10px;
+	transition: 1s;
+}
+
+button{
+	padding: 20px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	background-color: #05398c;
+	border: none;
+}
+button:active{
+	background-color: #022a6b;
+}
+button:focus{
+	outline: none;
+}
